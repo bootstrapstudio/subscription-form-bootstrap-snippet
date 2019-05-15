@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Subscription form snippet** made with Bootstrap 4 that consist of just a tiny bit of HTML and CSS. The snippet has a clean design that is easy to customize and will look good on just about any website. The form looks friendly and can be used to prompt users to subscribe for a newsletter without being obtrusive. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/subscription-form)
+**Subscription form snippet** made with Bootstrap 4 that consist of just a tiny bit of HTML and CSS. The snippet has a clean design that is easy to customize and will look good on just about any website. The form looks friendly and can be used to prompt users to subscribe for a newsletter without being obtrusive. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Subscription Form](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/subscription-form) 
+[![Subscription Form](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
